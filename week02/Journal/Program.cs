@@ -24,6 +24,7 @@ class Program
         {
 
             Console.WriteLine("Welcome to the journal program.");
+            //I wrote one of the causes that make people to not write in the journal 
             Console.WriteLine("One of those causes that make people to not write is they don't feel confident writing about what happened to them");
             Console.WriteLine("Please select one of the following choices:");
             Console.WriteLine("1. Write");
@@ -66,14 +67,14 @@ class Program
             {
                 Console.Write("What is the filename? ");
                 string filename = Console.ReadLine();
-                journal.loadFromFile(filename);
-                
+                journal.LoadFromFile(filename);
+
             }
             else if (number == 4)
             {
                 Console.Write("What is the filename? ");
                 string filename = Console.ReadLine();
-                journal.saveToFile(filename);
+                journal.SaveToFile(filename);
             }
             else if (number == 5)
             {
