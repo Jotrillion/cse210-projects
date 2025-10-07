@@ -67,6 +67,7 @@ class Program
                 Console.WriteLine(activity.GetDescription());
                 activity.Run();
                 Console.WriteLine(activity.YogaAct());
+                // i have added the yoga activity to display the name and reps entered by the user and ran the yoga activity
             }
             else if (choice == "5")
             {
