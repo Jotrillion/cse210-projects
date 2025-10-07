@@ -17,7 +17,7 @@ public class MathAssignment : Assignment
     public string GetHomeworkList()
     {
         return $"{_lesson} {_numb} {_subject} {_range}";
-     }
+    }
 
 
 }
