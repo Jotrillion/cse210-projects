@@ -1,0 +1,2 @@
+100
+SimpleGoal|skipping a cord|skip|100|True

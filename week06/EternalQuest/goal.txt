@@ -1,0 +1,5 @@
+100
+SimpleGoal|gymming|doing push up|100|True
+EternalGoal|praying|doing 10 minutes of praying|50
+ChecklistGoal|study|doing homework|50|0|0|0
+ChecklistGoal|runing|run the street |100|0|0|4

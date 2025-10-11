@@ -1,0 +1,2 @@
+100
+DailyGoal|greting|greet people|100|True
